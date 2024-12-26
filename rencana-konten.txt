@@ -3,4 +3,5 @@ Rencana Konten
 - Musik = Drum Cover
 - Self belief = Jangan mudah nyerah
 - Edukasi = Struktur Data
-- Stack
+- Queue
+
