@@ -2,3 +2,4 @@ Rencana Konten
 - Gaming = Minecraft
 - Musik = Drum Cover
 - Self belief = Jangan mudah nyerah
+- Edukasi = Struktur Data
